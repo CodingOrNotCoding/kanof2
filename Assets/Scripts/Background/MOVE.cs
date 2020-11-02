@@ -17,7 +17,6 @@ public class MOVE : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        print(Height);
         Move();
         Position();
     }

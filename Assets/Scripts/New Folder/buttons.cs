@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class buttons : MonoBehaviour
 {
-    float speed = 3f;
+    public float speed = 3f;
     void Start()
     {
       
@@ -13,12 +13,12 @@ public class buttons : MonoBehaviour
  
     void Update()
     {
-        
-        if (Input.GetKey(KeyCode.A))
+      
+        if (Input.GetKey(KeyCode.A) && transform.position.x>=-2.2f)
         {
             transform.Translate(Vector3.up * Time.deltaTime * speed, Space.Self); //LEFT
         }
-        if (Input.GetKey(KeyCode.D))
+        if (Input.GetKey(KeyCode.D) && transform.position.x <= 2.2f)
         {
             transform.Translate(Vector3.down * Time.deltaTime * speed, Space.Self); //RIGHT
         }

@@ -629,10 +629,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: c565d830-d25d-4670-869d-b87ecb1c0785
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: kanof2
+  organizationId: turkyilmazmertcan
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
