@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-11-02T22:28:07.674+03:00
-  initializedAtString: 2020-11-02T22:21:24.073+03:00
+  lastUpdatedAtString: 2020-11-03T15:19:36.125+03:00
+  initializedAtString: 2020-11-03T14:31:23.115+03:00
   entries:
   - path: .vs\kanof2\v16\.suo
     fullPath: A:\Mert Can\kanof2\.vs\kanof2\v16\.suo
@@ -28,384 +28,159 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assembly-CSharp-Editor-firstpass.csproj
-    fullPath: A:\Mert Can\kanof2\Assembly-CSharp-Editor-firstpass.csproj
-    projectPath: Assembly-CSharp-Editor-firstpass.csproj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Brackeys.meta
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys.meta
-    projectPath: Assets\Brackeys.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack.meta
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack.meta
-    projectPath: Assets\Brackeys\2D Mega Pack.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Items & Icons.meta
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Items & Icons.meta
-    projectPath: Assets\Brackeys\2D Mega Pack\Items & Icons.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Items & Icons\Cute.meta
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Items & Icons\Cute.meta
-    projectPath: Assets\Brackeys\2D Mega Pack\Items & Icons\Cute.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Items & Icons\Cute\Coin.png
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Items & Icons\Cute\Coin.png
-    projectPath: Assets\Brackeys\2D Mega Pack\Items & Icons\Cute\Coin.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Items & Icons\Cute\Coin.png.meta
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Items & Icons\Cute\Coin.png.meta
-    projectPath: Assets\Brackeys\2D Mega Pack\Items & Icons\Cute\Coin.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Items & Icons\Pixel Art.meta
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Items & Icons\Pixel
-      Art.meta
-    projectPath: Assets\Brackeys\2D Mega Pack\Items & Icons\Pixel Art.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Items & Icons\Pixel Art\Wood.png
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Items & Icons\Pixel
-      Art\Wood.png
-    projectPath: Assets\Brackeys\2D Mega Pack\Items & Icons\Pixel Art\Wood.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Items & Icons\Pixel Art\Wood.png.meta
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Items & Icons\Pixel
-      Art\Wood.png.meta
-    projectPath: Assets\Brackeys\2D Mega Pack\Items & Icons\Pixel Art\Wood.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes.meta
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes.meta
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\Arrow.png
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\Arrow.png
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\Arrow.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\Arrow.png.meta
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\Arrow.png.meta
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\Arrow.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\Circle.png
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\Circle.png
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\Circle.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\Circle.png.meta
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\Circle.png.meta
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\Circle.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\Diamond.png
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\Diamond.png
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\Diamond.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\Diamond.png.meta
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\Diamond.png.meta
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\Diamond.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\LargeRing.png
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\LargeRing.png
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\LargeRing.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\LargeRing.png.meta
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\LargeRing.png.meta
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\LargeRing.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\LargeSquare.png
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\LargeSquare.png
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\LargeSquare.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\LargeSquare.png.meta
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\LargeSquare.png.meta
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\LargeSquare.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\Ring.png
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\Ring.png
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\Ring.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\Ring.png.meta
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\Ring.png.meta
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\Ring.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\Square.png
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\Square.png
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\Square.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\Square.png.meta
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\Square.png.meta
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\Square.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\Sugar.png
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\Sugar.png
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\Sugar.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\Sugar.png.meta
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\Sugar.png.meta
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\Sugar.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\Triangle.png
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\Triangle.png
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\Triangle.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\Triangle.png.meta
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\Triangle.png.meta
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\Triangle.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\X.png
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\X.png
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\X.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Brackeys\2D Mega Pack\Shapes\X.png.meta
-    fullPath: A:\Mert Can\kanof2\Assets\Brackeys\2D Mega Pack\Shapes\X.png.meta
-    projectPath: Assets\Brackeys\2D Mega Pack\Shapes\X.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assets\Scenes\SampleScene.unity
     fullPath: A:\Mert Can\kanof2\Assets\Scenes\SampleScene.unity
     projectPath: Assets\Scenes\SampleScene.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scripts\Background\MOVE.cs
-    fullPath: A:\Mert Can\kanof2\Assets\Scripts\Background\MOVE.cs
-    projectPath: Assets\Scripts\Background\MOVE.cs
+  - path: Assets\Scripts\Gaming.meta
+    fullPath: A:\Mert Can\kanof2\Assets\Scripts\Gaming.meta
+    projectPath: Assets\Scripts\Gaming.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Gaming\buttons.cs
+    fullPath: A:\Mert Can\kanof2\Assets\Scripts\Gaming\buttons.cs
+    projectPath: Assets\Scripts\Gaming\buttons.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Gaming\buttons.cs.meta
+    fullPath: A:\Mert Can\kanof2\Assets\Scripts\Gaming\buttons.cs.meta
+    projectPath: Assets\Scripts\Gaming\buttons.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Gaming\EnemyMove.cs
+    fullPath: A:\Mert Can\kanof2\Assets\Scripts\Gaming\EnemyMove.cs
+    projectPath: Assets\Scripts\Gaming\EnemyMove.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Gaming\EnemyMove.cs.meta
+    fullPath: A:\Mert Can\kanof2\Assets\Scripts\Gaming\EnemyMove.cs.meta
+    projectPath: Assets\Scripts\Gaming\EnemyMove.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Gaming\Health.cs
+    fullPath: A:\Mert Can\kanof2\Assets\Scripts\Gaming\Health.cs
+    projectPath: Assets\Scripts\Gaming\Health.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Gaming\Health.cs.meta
+    fullPath: A:\Mert Can\kanof2\Assets\Scripts\Gaming\Health.cs.meta
+    projectPath: Assets\Scripts\Gaming\Health.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Gaming\Spawn.cs
+    fullPath: A:\Mert Can\kanof2\Assets\Scripts\Gaming\Spawn.cs
+    projectPath: Assets\Scripts\Gaming\Spawn.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Gaming\Spawn.cs.meta
+    fullPath: A:\Mert Can\kanof2\Assets\Scripts\Gaming\Spawn.cs.meta
+    projectPath: Assets\Scripts\Gaming\Spawn.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\New Folder.meta
+    fullPath: A:\Mert Can\kanof2\Assets\Scripts\New Folder.meta
+    projectPath: Assets\Scripts\New Folder.meta
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Assets\Scripts\New Folder\buttons.cs
     fullPath: A:\Mert Can\kanof2\Assets\Scripts\New Folder\buttons.cs
     projectPath: Assets\Scripts\New Folder\buttons.cs
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
+  - path: Assets\Scripts\New Folder\buttons.cs.meta
+    fullPath: A:\Mert Can\kanof2\Assets\Scripts\New Folder\buttons.cs.meta
+    projectPath: Assets\Scripts\New Folder\buttons.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\New Folder\EnemyMove.cs
     fullPath: A:\Mert Can\kanof2\Assets\Scripts\New Folder\EnemyMove.cs
     projectPath: Assets\Scripts\New Folder\EnemyMove.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\New Folder\EnemyMove.cs.meta
     fullPath: A:\Mert Can\kanof2\Assets\Scripts\New Folder\EnemyMove.cs.meta
     projectPath: Assets\Scripts\New Folder\EnemyMove.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\New Folder\Health.cs
     fullPath: A:\Mert Can\kanof2\Assets\Scripts\New Folder\Health.cs
     projectPath: Assets\Scripts\New Folder\Health.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\New Folder\Health.cs.meta
     fullPath: A:\Mert Can\kanof2\Assets\Scripts\New Folder\Health.cs.meta
     projectPath: Assets\Scripts\New Folder\Health.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\New Folder\Spawn.cs
     fullPath: A:\Mert Can\kanof2\Assets\Scripts\New Folder\Spawn.cs
     projectPath: Assets\Scripts\New Folder\Spawn.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Scripts\New Folder\Spawn.cs.meta
     fullPath: A:\Mert Can\kanof2\Assets\Scripts\New Folder\Spawn.cs.meta
     projectPath: Assets\Scripts\New Folder\Spawn.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\UI\Score.cs
+    fullPath: A:\Mert Can\kanof2\Assets\Scripts\UI\Score.cs
+    projectPath: Assets\Scripts\UI\Score.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ArtifactDB
     fullPath: A:\Mert Can\kanof2\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\Artifacts\03\03d1b00a9ce7d0da713007c0b1e720bc
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\03\03d1b00a9ce7d0da713007c0b1e720bc
-    projectPath: Library\Artifacts\03\03d1b00a9ce7d0da713007c0b1e720bc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\1b\1b3d83840db4db96391307149f9e0a51
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\1b\1b3d83840db4db96391307149f9e0a51
-    projectPath: Library\Artifacts\1b\1b3d83840db4db96391307149f9e0a51
+  - path: Library\Artifacts\01\010857084067b045c58fbc141efff4df
+    fullPath: A:\Mert Can\kanof2\Library\Artifacts\01\010857084067b045c58fbc141efff4df
+    projectPath: Library\Artifacts\01\010857084067b045c58fbc141efff4df
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\26\264544811237e884d3e8d982067cf035
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\26\264544811237e884d3e8d982067cf035
-    projectPath: Library\Artifacts\26\264544811237e884d3e8d982067cf035
+  - path: Library\Artifacts\21\215757a1aa484cc99a31b0d1e8213232
+    fullPath: A:\Mert Can\kanof2\Library\Artifacts\21\215757a1aa484cc99a31b0d1e8213232
+    projectPath: Library\Artifacts\21\215757a1aa484cc99a31b0d1e8213232
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\29\291a231a578d55a0f774388283fc1051
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\29\291a231a578d55a0f774388283fc1051
-    projectPath: Library\Artifacts\29\291a231a578d55a0f774388283fc1051
+  - path: Library\Artifacts\36\36057b302c738a1b35e288c1143abeff
+    fullPath: A:\Mert Can\kanof2\Library\Artifacts\36\36057b302c738a1b35e288c1143abeff
+    projectPath: Library\Artifacts\36\36057b302c738a1b35e288c1143abeff
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\33\3398efc2ff81dbaa7f3981e911f81e76
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\33\3398efc2ff81dbaa7f3981e911f81e76
-    projectPath: Library\Artifacts\33\3398efc2ff81dbaa7f3981e911f81e76
+  - path: Library\Artifacts\69\6987c09a01460a0dcc68df7a1952ea14
+    fullPath: A:\Mert Can\kanof2\Library\Artifacts\69\6987c09a01460a0dcc68df7a1952ea14
+    projectPath: Library\Artifacts\69\6987c09a01460a0dcc68df7a1952ea14
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\34\343f5c9562588728ff681eb49699686d
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\34\343f5c9562588728ff681eb49699686d
-    projectPath: Library\Artifacts\34\343f5c9562588728ff681eb49699686d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\34\34a3b88a040e5e383efc5065c18ecb58
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\34\34a3b88a040e5e383efc5065c18ecb58
-    projectPath: Library\Artifacts\34\34a3b88a040e5e383efc5065c18ecb58
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\3e\3e6b686c62c5bb14e0138df1a0898247
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\3e\3e6b686c62c5bb14e0138df1a0898247
-    projectPath: Library\Artifacts\3e\3e6b686c62c5bb14e0138df1a0898247
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\41\4178a122123a0e439a7f309c3bdec782
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\41\4178a122123a0e439a7f309c3bdec782
-    projectPath: Library\Artifacts\41\4178a122123a0e439a7f309c3bdec782
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\44\44797a6949ac5d75e053c25471638fad
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\44\44797a6949ac5d75e053c25471638fad
-    projectPath: Library\Artifacts\44\44797a6949ac5d75e053c25471638fad
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\4a\4a03d800baf553136a36424b0839d5d6
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\4a\4a03d800baf553136a36424b0839d5d6
-    projectPath: Library\Artifacts\4a\4a03d800baf553136a36424b0839d5d6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\50\50dd5af66e16d2e420cf57980e2cbac5
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\50\50dd5af66e16d2e420cf57980e2cbac5
-    projectPath: Library\Artifacts\50\50dd5af66e16d2e420cf57980e2cbac5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\54\548c7ee178dca50238e7d30da9295c29
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\54\548c7ee178dca50238e7d30da9295c29
-    projectPath: Library\Artifacts\54\548c7ee178dca50238e7d30da9295c29
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\5c\5cce1656504d6abb538cabfa944b80c0
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\5c\5cce1656504d6abb538cabfa944b80c0
-    projectPath: Library\Artifacts\5c\5cce1656504d6abb538cabfa944b80c0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\60\6085b567fab08a28927b39325e382e6f
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\60\6085b567fab08a28927b39325e382e6f
-    projectPath: Library\Artifacts\60\6085b567fab08a28927b39325e382e6f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\65\65c22f5494822753640e84ca4f0e49be
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\65\65c22f5494822753640e84ca4f0e49be
-    projectPath: Library\Artifacts\65\65c22f5494822753640e84ca4f0e49be
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
-    projectPath: Library\Artifacts\6b\6b71e12ae88c104e4a4bfb7b690dcffa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\6d\6dc43746bfeb4482d22a6be7b451df29
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\6d\6dc43746bfeb4482d22a6be7b451df29
-    projectPath: Library\Artifacts\6d\6dc43746bfeb4482d22a6be7b451df29
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\79\79e26f03141ae2f0951a241b6fbddf89
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\79\79e26f03141ae2f0951a241b6fbddf89
-    projectPath: Library\Artifacts\79\79e26f03141ae2f0951a241b6fbddf89
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\84\84497511877c1bb943a0a33635beb4ad
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\84\84497511877c1bb943a0a33635beb4ad
-    projectPath: Library\Artifacts\84\84497511877c1bb943a0a33635beb4ad
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8e\8eb3d3d42b398a02791221b533f45b68
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\8e\8eb3d3d42b398a02791221b533f45b68
-    projectPath: Library\Artifacts\8e\8eb3d3d42b398a02791221b533f45b68
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8f\8fc400cdf383b157100d23e26802bfe7
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\8f\8fc400cdf383b157100d23e26802bfe7
-    projectPath: Library\Artifacts\8f\8fc400cdf383b157100d23e26802bfe7
+  - path: Library\Artifacts\6e\6e7257a0d23e614950ed37a52b9ab0cd
+    fullPath: A:\Mert Can\kanof2\Library\Artifacts\6e\6e7257a0d23e614950ed37a52b9ab0cd
+    projectPath: Library\Artifacts\6e\6e7257a0d23e614950ed37a52b9ab0cd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -413,41 +188,17 @@ MonoBehaviour:
     fullPath: A:\Mert Can\kanof2\Library\Artifacts\93\93b9fcf6edbc958baa131efe212424df
     projectPath: Library\Artifacts\93\93b9fcf6edbc958baa131efe212424df
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\Artifacts\95\950f6a6cacca22df1b3e66da040562cf
     fullPath: A:\Mert Can\kanof2\Library\Artifacts\95\950f6a6cacca22df1b3e66da040562cf
     projectPath: Library\Artifacts\95\950f6a6cacca22df1b3e66da040562cf
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\96\966a57a21c88c40bb80cf81635b9883b
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\96\966a57a21c88c40bb80cf81635b9883b
-    projectPath: Library\Artifacts\96\966a57a21c88c40bb80cf81635b9883b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\a0\a05cd013bfdef4ca5a5138c9511e2bdc
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\a0\a05cd013bfdef4ca5a5138c9511e2bdc
-    projectPath: Library\Artifacts\a0\a05cd013bfdef4ca5a5138c9511e2bdc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ae\aee57073a7be5c63535ef479c6e940d6
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\ae\aee57073a7be5c63535ef479c6e940d6
-    projectPath: Library\Artifacts\ae\aee57073a7be5c63535ef479c6e940d6
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\bb\bb392ca817dd754268f30c1678e052c3
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\bb\bb392ca817dd754268f30c1678e052c3
-    projectPath: Library\Artifacts\bb\bb392ca817dd754268f30c1678e052c3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bb\bb5c061d009139925f95e7c6b3d0df27
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\bb\bb5c061d009139925f95e7c6b3d0df27
-    projectPath: Library\Artifacts\bb\bb5c061d009139925f95e7c6b3d0df27
+  - path: Library\Artifacts\95\95b9805b4a1767b3c85049c913f8b101
+    fullPath: A:\Mert Can\kanof2\Library\Artifacts\95\95b9805b4a1767b3c85049c913f8b101
+    projectPath: Library\Artifacts\95\95b9805b4a1767b3c85049c913f8b101
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -455,125 +206,35 @@ MonoBehaviour:
     fullPath: A:\Mert Can\kanof2\Library\Artifacts\be\be1c39a99ee84d9822442a9b7513ba68
     projectPath: Library\Artifacts\be\be1c39a99ee84d9822442a9b7513ba68
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c2\c2b88542530b7eb40321cb693689ca5c
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\c2\c2b88542530b7eb40321cb693689ca5c
-    projectPath: Library\Artifacts\c2\c2b88542530b7eb40321cb693689ca5c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c3\c3c172ae43632d71969db27a07cae734
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\c3\c3c172ae43632d71969db27a07cae734
-    projectPath: Library\Artifacts\c3\c3c172ae43632d71969db27a07cae734
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\cc\ccf3c679583df432ce37508cd91674db
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\cc\ccf3c679583df432ce37508cd91674db
-    projectPath: Library\Artifacts\cc\ccf3c679583df432ce37508cd91674db
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ce\ce26abf91d70d42a7608b18a1a2bcbcb
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\ce\ce26abf91d70d42a7608b18a1a2bcbcb
-    projectPath: Library\Artifacts\ce\ce26abf91d70d42a7608b18a1a2bcbcb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\cf\cf27770c4f78e2cf05147ecfb072aceb
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\cf\cf27770c4f78e2cf05147ecfb072aceb
-    projectPath: Library\Artifacts\cf\cf27770c4f78e2cf05147ecfb072aceb
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d5\d5ce0b7a4f5ff57f3ed3725f6ef1a3bd
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\d5\d5ce0b7a4f5ff57f3ed3725f6ef1a3bd
-    projectPath: Library\Artifacts\d5\d5ce0b7a4f5ff57f3ed3725f6ef1a3bd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d9\d948e13ded36117ff2f2bbba3090d02f
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\d9\d948e13ded36117ff2f2bbba3090d02f
-    projectPath: Library\Artifacts\d9\d948e13ded36117ff2f2bbba3090d02f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\eb\ebe2b1b02c0520d2d2adf8c40443ac7d
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\eb\ebe2b1b02c0520d2d2adf8c40443ac7d
-    projectPath: Library\Artifacts\eb\ebe2b1b02c0520d2d2adf8c40443ac7d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f4\f44b352758f1b8074fd2a2fc349400d8
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\f4\f44b352758f1b8074fd2a2fc349400d8
-    projectPath: Library\Artifacts\f4\f44b352758f1b8074fd2a2fc349400d8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f7\f781df95636c81db6ad529c130d18010
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\f7\f781df95636c81db6ad529c130d18010
-    projectPath: Library\Artifacts\f7\f781df95636c81db6ad529c130d18010
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f9\f9ffb5cfb73e37b79a45936d8868c61e
-    fullPath: A:\Mert Can\kanof2\Library\Artifacts\f9\f9ffb5cfb73e37b79a45936d8868c61e
-    projectPath: Library\Artifacts\f9\f9ffb5cfb73e37b79a45936d8868c61e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: A:\Mert Can\kanof2\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Library\EditorInstance.json
     fullPath: A:\Mert Can\kanof2\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
     fullPath: A:\Mert Can\kanof2\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\gfu\cache\gitlocks.yaml
-    fullPath: A:\Mert Can\kanof2\Library\gfu\cache\gitlocks.yaml
-    projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: A:\Mert Can\kanof2\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: A:\Mert Can\kanof2\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: A:\Mert Can\kanof2\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: A:\Mert Can\kanof2\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: A:\Mert Can\kanof2\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -586,192 +247,6 @@ MonoBehaviour:
   - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
     fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Assembly-CSharp.pdb
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\PsdPlugin.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\PsdPlugin.dll
-    projectPath: Library\ScriptAssemblies\PsdPlugin.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    projectPath: Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Mathematics.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.Mathematics.dll
-    projectPath: Library\ScriptAssemblies\Unity.Mathematics.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: A:\Mert Can\kanof2\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache\EditorEncounteredVariants
-    fullPath: A:\Mert Can\kanof2\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -799,51 +274,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    fullPath: A:\Mert Can\kanof2\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    fullPath: A:\Mert Can\kanof2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\ProjectSettings.asset
-    fullPath: A:\Mert Can\kanof2\ProjectSettings\ProjectSettings.asset
-    projectPath: ProjectSettings\ProjectSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\QualitySettings.asset
-    fullPath: A:\Mert Can\kanof2\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\TagManager.asset
-    fullPath: A:\Mert Can\kanof2\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\UnityConnectSettings.asset
-    fullPath: A:\Mert Can\kanof2\ProjectSettings\UnityConnectSettings.asset
-    projectPath: ProjectSettings\UnityConnectSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Temp\__Backupscenes\0.backup
     fullPath: A:\Mert Can\kanof2\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Temp\UnityLockfile
     fullPath: A:\Mert Can\kanof2\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\UnityTempFile-099f62534a6d5b34c8dcd54c0605d75a
+    fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-099f62534a6d5b34c8dcd54c0605d75a
+    projectPath: Temp\UnityTempFile-099f62534a6d5b34c8dcd54c0605d75a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -851,29 +296,35 @@ MonoBehaviour:
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-0fa15445c1a8a0b489b7ad653f8120dc
     projectPath: Temp\UnityTempFile-0fa15445c1a8a0b489b7ad653f8120dc
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-108f6576ada1c6f4b989ea5a916fabb2
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-108f6576ada1c6f4b989ea5a916fabb2
     projectPath: Temp\UnityTempFile-108f6576ada1c6f4b989ea5a916fabb2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-20b9327f83b85634296eb8f0a3784cfa
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-20b9327f83b85634296eb8f0a3784cfa
     projectPath: Temp\UnityTempFile-20b9327f83b85634296eb8f0a3784cfa
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-243dcdac641c70e45b338cbd31bcee83
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-243dcdac641c70e45b338cbd31bcee83
     projectPath: Temp\UnityTempFile-243dcdac641c70e45b338cbd31bcee83
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-29c25cecac0b93e42ad84c2b3302116b
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-29c25cecac0b93e42ad84c2b3302116b
     projectPath: Temp\UnityTempFile-29c25cecac0b93e42ad84c2b3302116b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-2e2f179d65a006f4899c8b5328635158
+    fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-2e2f179d65a006f4899c8b5328635158
+    projectPath: Temp\UnityTempFile-2e2f179d65a006f4899c8b5328635158
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -881,83 +332,89 @@ MonoBehaviour:
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-3e248f74141888949a265e18d0f43767
     projectPath: Temp\UnityTempFile-3e248f74141888949a265e18d0f43767
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-449a3adaa287f6644b6a705ad28f548d
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-449a3adaa287f6644b6a705ad28f548d
     projectPath: Temp\UnityTempFile-449a3adaa287f6644b6a705ad28f548d
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-465f7f062d2eb2642b668ffcb7aa0c1b
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-465f7f062d2eb2642b668ffcb7aa0c1b
     projectPath: Temp\UnityTempFile-465f7f062d2eb2642b668ffcb7aa0c1b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-55f1a6e7b9c905146a8fa992bce63166
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-55f1a6e7b9c905146a8fa992bce63166
     projectPath: Temp\UnityTempFile-55f1a6e7b9c905146a8fa992bce63166
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-5a0b1ad94c436ae4d95b5cc3134a473f
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-5a0b1ad94c436ae4d95b5cc3134a473f
     projectPath: Temp\UnityTempFile-5a0b1ad94c436ae4d95b5cc3134a473f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-651ef72e9c3310c41a5582ab2f5059a0
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-651ef72e9c3310c41a5582ab2f5059a0
     projectPath: Temp\UnityTempFile-651ef72e9c3310c41a5582ab2f5059a0
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-65d723e5ef3c8f84c8cc419ba7dc47e4
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-65d723e5ef3c8f84c8cc419ba7dc47e4
     projectPath: Temp\UnityTempFile-65d723e5ef3c8f84c8cc419ba7dc47e4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-6e570a66da8118d4196c4e34aac19a69
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-6e570a66da8118d4196c4e34aac19a69
     projectPath: Temp\UnityTempFile-6e570a66da8118d4196c4e34aac19a69
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-703ca2e015b7a514c97fd33612001437
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-703ca2e015b7a514c97fd33612001437
     projectPath: Temp\UnityTempFile-703ca2e015b7a514c97fd33612001437
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-7a7c350ebd2be4548a3a8e4275011ae2
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-7a7c350ebd2be4548a3a8e4275011ae2
     projectPath: Temp\UnityTempFile-7a7c350ebd2be4548a3a8e4275011ae2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-8058e54d232f4594b9e8ecc2dee64f53
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-8058e54d232f4594b9e8ecc2dee64f53
     projectPath: Temp\UnityTempFile-8058e54d232f4594b9e8ecc2dee64f53
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-8131c35348a8fb0418eb08b51a09a20a
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-8131c35348a8fb0418eb08b51a09a20a
     projectPath: Temp\UnityTempFile-8131c35348a8fb0418eb08b51a09a20a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-87b0697fbf9288c4eac7a7643021d5c5
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-87b0697fbf9288c4eac7a7643021d5c5
     projectPath: Temp\UnityTempFile-87b0697fbf9288c4eac7a7643021d5c5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-9aad2612d2263de478003bb5f3c7d1ca
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-9aad2612d2263de478003bb5f3c7d1ca
     projectPath: Temp\UnityTempFile-9aad2612d2263de478003bb5f3c7d1ca
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-9d1c4fbd3387971408edd3634cf331b0
+    fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-9d1c4fbd3387971408edd3634cf331b0
+    projectPath: Temp\UnityTempFile-9d1c4fbd3387971408edd3634cf331b0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -965,17 +422,23 @@ MonoBehaviour:
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-a1ebae4a0e2d7334b9bf1e5ae8b2e34e
     projectPath: Temp\UnityTempFile-a1ebae4a0e2d7334b9bf1e5ae8b2e34e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-b3089764b49b6824a8b8c55d7424a76c
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-b3089764b49b6824a8b8c55d7424a76c
     projectPath: Temp\UnityTempFile-b3089764b49b6824a8b8c55d7424a76c
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-b35820e5f22ffb04191c9cfed08dc02c
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-b35820e5f22ffb04191c9cfed08dc02c
     projectPath: Temp\UnityTempFile-b35820e5f22ffb04191c9cfed08dc02c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-b56b6d34670bcb24fa840c87b7a1363a
+    fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-b56b6d34670bcb24fa840c87b7a1363a
+    projectPath: Temp\UnityTempFile-b56b6d34670bcb24fa840c87b7a1363a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -983,17 +446,23 @@ MonoBehaviour:
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-b850f4aa6407417419fb3aa37b4275a2
     projectPath: Temp\UnityTempFile-b850f4aa6407417419fb3aa37b4275a2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-c12403909a67e1b40994e48868ce14fe
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-c12403909a67e1b40994e48868ce14fe
     projectPath: Temp\UnityTempFile-c12403909a67e1b40994e48868ce14fe
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-c2587414ff2090f4a9733b188da9673e
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-c2587414ff2090f4a9733b188da9673e
     projectPath: Temp\UnityTempFile-c2587414ff2090f4a9733b188da9673e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-cc3c9baeb038af44585505a6fdc6d0a4
+    fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-cc3c9baeb038af44585505a6fdc6d0a4
+    projectPath: Temp\UnityTempFile-cc3c9baeb038af44585505a6fdc6d0a4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1001,47 +470,59 @@ MonoBehaviour:
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-d5e53561fa8d99a4f9555ba8a403cc6f
     projectPath: Temp\UnityTempFile-d5e53561fa8d99a4f9555ba8a403cc6f
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-d6d0b97c7022dc1468fc5898dfdf180f
+    fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-d6d0b97c7022dc1468fc5898dfdf180f
+    projectPath: Temp\UnityTempFile-d6d0b97c7022dc1468fc5898dfdf180f
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Temp\UnityTempFile-d771c5c7e2c110d45bf408ede905e251
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-d771c5c7e2c110d45bf408ede905e251
     projectPath: Temp\UnityTempFile-d771c5c7e2c110d45bf408ede905e251
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-d82739c4078488b469786ed6408594eb
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-d82739c4078488b469786ed6408594eb
     projectPath: Temp\UnityTempFile-d82739c4078488b469786ed6408594eb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-d9af8ef9e8493ed41ac16a28a1fb57b4
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-d9af8ef9e8493ed41ac16a28a1fb57b4
     projectPath: Temp\UnityTempFile-d9af8ef9e8493ed41ac16a28a1fb57b4
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-e1e4da98eb8dc7843bd82466249411e2
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-e1e4da98eb8dc7843bd82466249411e2
     projectPath: Temp\UnityTempFile-e1e4da98eb8dc7843bd82466249411e2
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-e3cb6a746c4952d42acb7f87f06928f8
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-e3cb6a746c4952d42acb7f87f06928f8
     projectPath: Temp\UnityTempFile-e3cb6a746c4952d42acb7f87f06928f8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-f4266afa284d56b4583ce6f1721d9852
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-f4266afa284d56b4583ce6f1721d9852
     projectPath: Temp\UnityTempFile-f4266afa284d56b4583ce6f1721d9852
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp\UnityTempFile-f85b4def5b29d6b4780d741d36acae8b
     fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-f85b4def5b29d6b4780d741d36acae8b
     projectPath: Temp\UnityTempFile-f85b4def5b29d6b4780d741d36acae8b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp\UnityTempFile-fe190a5854e74a74485dbafc1e510726
+    fullPath: A:\Mert Can\kanof2\Temp\UnityTempFile-fe190a5854e74a74485dbafc1e510726
+    projectPath: Temp\UnityTempFile-fe190a5854e74a74485dbafc1e510726
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

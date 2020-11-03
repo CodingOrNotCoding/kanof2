@@ -5,17 +5,23 @@ using UnityEngine.UI;
 
 public class Score : MonoBehaviour
 {
-    Text txt;
-    int score;
-    void Start()
-    {
-        score = 0;
-    }
+    public Text ScoreText;
 
-    // Update is called once per frame
+    private float timer;
+    private int score;
+
     void Update()
     {
-        score = score + 1;
-        txt.GetComponent<UnityEngine.UI.Text>().text = "Score = "+ score.ToString();
+
+        timer += Time.deltaTime;
+
+        if (timer > 5f)
+        {
+
+            score += 5;
+
+            ScoreText.text = ("Score = " + score.ToString());
+
+        }
     }
 }

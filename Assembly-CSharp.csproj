@@ -64,10 +64,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Background\MOVE.cs" />
-    <Compile Include="Assets\Scripts\New Folder\EnemyMove.cs" />
-    <Compile Include="Assets\Scripts\New Folder\Health.cs" />
-    <Compile Include="Assets\Scripts\New Folder\Spawn.cs" />
-    <Compile Include="Assets\Scripts\New Folder\buttons.cs" />
+    <Compile Include="Assets\Scripts\Gaming\EnemyMove.cs" />
+    <Compile Include="Assets\Scripts\Gaming\Health.cs" />
+    <Compile Include="Assets\Scripts\Gaming\Spawn.cs" />
+    <Compile Include="Assets\Scripts\Gaming\buttons.cs" />
     <Compile Include="Assets\Scripts\UI\Score.cs" />
     <None Include="Assets\Five Seamless Tileable Ground Textures\read me.txt" />
     <Reference Include="UnityEngine">
