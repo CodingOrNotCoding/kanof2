@@ -1,36 +1,45 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class Health : MonoBehaviour
 {
-    GameObject Kano;
+    public Text HealthText;
     int health ;
     // Start is called before the first frame update
     void Start()
     {
         health = 3;
-        Kano = GameObject.FindGameObjectWithTag("Kano");
     }
-
     // Update is called once per frame
     void Update()
     {
         Dead();
+        HealthText.text = ("Health = " + health);
     }
-    void OnTriggerEnter(Collider Other)
+  
+    void OnTriggerEnter2D(Collider2D   other)
     {
-        if(Other.gameObject.tag == "Kano")
-        {
-            health = health - 1;
+
+        if (other.tag == "Enemies" && health>0)
+        {  
+                health = health - 1;
+           
         }
+
     }
     void Dead()
     {
         if (health <= 0)
         {
-            Destroy(Kano);
+           PauseGame();
         }
-        print(health);
     }
+    void PauseGame()
+    {
+        SceneManager.LoadScene("StartScene");
+    }
+
 }

@@ -7,7 +7,7 @@ public class MOVE : MonoBehaviour
     public float speed = 5f;
 
     private float cameray;
-    private float Height;
+
 
     void Start()
     {

@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-11-03T14:31:11.559+03:00
-  initializedAtString: 2020-11-03T14:31:11.559+03:00
+  lastUpdatedAtString: 2020-12-07T16:23:54.028+03:00
+  initializedAtString: 2020-12-07T16:23:54.028+03:00
   currentGitRemote:
     name: origin
     url: https://github.com/CodingOrNotCoding/kanof2.git
