@@ -17,4 +17,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/stopGameScene.unity
     guid: 017cf6cf8084343d98087c037cfdbfbe
+  - enabled: 1
+    path: Assets/Scenes/diedscene.unity
+    guid: 79ae8946634d0486c9c561f8bb69ba05
+  - enabled: 1
+    path: Assets/Scenes/monster1Scene.unity
+    guid: e09e81cd8305b4dbc996d00e276573d9
+  - enabled: 1
+    path: Assets/Scenes/monster2Scene.unity
+    guid: 9a77dfa81dd2243eabeeafb3135acc0d
+  - enabled: 1
+    path: Assets/Scenes/monster3Scene.unity
+    guid: b5efdaa8dd1484e18bdd02aeeccf3ed2
+  - enabled: 1
+    path: Assets/Scenes/monster4Scene.unity
+    guid: 53bf9a32a60c84df19397469d5844873
   m_configObjects: {}

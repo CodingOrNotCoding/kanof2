@@ -42,6 +42,8 @@ public class Score : MonoBehaviour
     public SpriteRenderer W4;
     public SpriteRenderer W5;
     bool islvl2;
+    bool isright;
+    static int haveSword;
     public Sprite Lv1B;
     public Sprite Lv1W;
     public Sprite Lv2B;
@@ -107,6 +109,7 @@ public class Score : MonoBehaviour
         W3.sprite = Lv2W;
         W4.sprite = Lv2W;
         W5.sprite = Lv2W;
+        isright = false;
     }
     void LVB4()
     {
@@ -126,6 +129,7 @@ public class Score : MonoBehaviour
         W3.sprite = Lv2W;
         W4.sprite = Lv2W;
         W5.sprite = Lv2W;
+        isright = true;
     }
     void LVB5()
     {
@@ -145,9 +149,11 @@ public class Score : MonoBehaviour
         W3.sprite = Lv2W;
         W4.sprite = Lv2W;
         W5.sprite = Lv2W;
+        isright = true;
     }
     void LVB6()
     {
+  
         Block.sprite = BlockLv6;
         SO1.sprite = Lv6B;
         SO2.sprite = Lv6B;
@@ -164,24 +170,42 @@ public class Score : MonoBehaviour
         W3.sprite = Lv2W;
         W4.sprite = Lv2W;
         W5.sprite = Lv2W;
+        isright = false;
     }
     void Start()
     {
-         fleft = "Stay here for BUZUL";
-         fright = "Stay here for ÇAMUR";
-        oleft = "Stay here for KUM";
-        oright = "Stay here for ÇİÇEK";
-        tleft = "Stay here for KAYA";
-        tright = "Stay here for TUZ";
+         fleft = "Stay here for Ice Land";
+         fright = "Stay here for Mud";
+        oleft = "Stay here for Sand Land";
+        oright = "Stay here for Lawn World";
+        tleft = "Stay here for Rocky Palace";
+        tright = "Stay here for Salty Road";
+        PlayerPrefs.SetInt("HaveuSword", 0);   //I will change this before showing the teacher
+        haveSword = PlayerPrefs.GetInt("HaveuSword");
+    }
+   public void swordBuyed()
+    {
+        haveSword = 1;
+        PlayerPrefs.SetInt("HaveuSword", haveSword);
+        Invoke("mainMenu", 7);
+    }
+
+    void mainMenu()
+    {
+        SceneManager.LoadScene("StartScene");
     }
     void Update()
     {
-        
+        PlayerPrefs.SetInt("Sword", haveSword);
+
+        if (Time.timeScale == 0) return;
+
 
             score += 0.01f;
             scoreInt = (int)score;
-            ScoreText.text = ("Score = " + scoreInt.ToString());
-
+            ScoreText.text = (": " + scoreInt.ToString());
+       
+          
         if (scoreInt == 30)
         {
             leftText.text = fleft;
@@ -204,7 +228,7 @@ public class Score : MonoBehaviour
             }
             
         }
-        if (scoreInt == 100)
+        if (scoreInt == 120)
         {
             if (islvl2)
             {
@@ -219,7 +243,7 @@ public class Score : MonoBehaviour
             
         }
 
-        if (scoreInt == 130)
+        if (scoreInt == 150)
         {
             leftText.text = " ";
             rightText.text = " ";
@@ -239,7 +263,38 @@ public class Score : MonoBehaviour
             {
                 LVB5();
             }
-
         }
+        if (scoreInt == 160)
+        {
+                if (isright && islvl2)
+                {
+                    if(haveSword == 1)
+                        SceneManager.LoadScene("monster4Scene");
+                    else
+                        SceneManager.LoadScene("diedscene");
+                }
+                if (isright && !(islvl2))
+                {
+                    if (haveSword == 1)
+                        SceneManager.LoadScene("monster3Scene");
+                    else
+                        SceneManager.LoadScene("diedscene");
+                }
+                if (!isright && !(islvl2))
+                {
+                    if (haveSword == 1)
+                        SceneManager.LoadScene("monster2Scene");
+                    else
+                        SceneManager.LoadScene("diedscene");
+                }
+                if (!isright && islvl2)
+                {
+                    if (haveSword == 1)
+                        SceneManager.LoadScene("monster1Scene");
+                    else
+                        SceneManager.LoadScene("diedscene");
+                }
+        }
+        
     }
 }

@@ -17,7 +17,7 @@ public class Health : MonoBehaviour
     void Update()
     {
         Dead();
-        HealthText.text = ("Health = " + health);
+        HealthText.text = (": " + health);
     }
   
     void OnTriggerEnter2D(Collider2D   other)
@@ -34,12 +34,10 @@ public class Health : MonoBehaviour
     {
         if (health <= 0)
         {
-           PauseGame();
+            print("DİE!!!");
+            SceneManager.LoadScene("diedscene");
         }
     }
-    void PauseGame()
-    {
-        SceneManager.LoadScene("StartScene");
-    }
+ 
 
 }

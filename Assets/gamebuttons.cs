@@ -13,19 +13,6 @@ public class gamebuttons : MonoBehaviour
 
     }
 
-
-    public void goStore()
-    {
-        SceneManager.LoadScene(2);
-
-    }
-
-    public void backtostp()
-    {
-        SceneManager.LoadScene(3);
-
-    }
-
     public void exitbtn()
     {
         SceneManager.LoadScene(0);

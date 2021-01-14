@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class buttons : MonoBehaviour
 {
-    public float speed = 3f;
+    private float speed = 3f;
 
     void Start()
     {

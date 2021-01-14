@@ -5,7 +5,7 @@ using UnityEngine;
 public class EnemyMove : MonoBehaviour
 {
     public float speed = 10f;
-    private float timer;
+
 
     // Start is called before the first frame update
     void Start()
@@ -24,5 +24,16 @@ public class EnemyMove : MonoBehaviour
         temp.y -= speed * Time.deltaTime;
         transform.localPosition = temp;
     }
-  
+    public void Fast()
+    {
+        speed += 3f;
+        print("FASTER!");
+    }
+    public void Slow()
+    {
+       
+        if (speed > 5)
+            speed -= 3f;
+        print("SLOWER!");
+    }
 }
